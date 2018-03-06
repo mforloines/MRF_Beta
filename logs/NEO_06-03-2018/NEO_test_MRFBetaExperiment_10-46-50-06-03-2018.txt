@@ -1,0 +1,71 @@
+***SESSION HEADER***
+{
+  "Participant": "NEO",
+  "Timestamp": "10-46-50-06-03-2018"
+}
+---SESSION HEADER---
+***TEST HEADER***
+
+---TEST HEADER---
+Time;Sender;Index;Event;
+38810.3858;Experiment;0;WaitingToStart;
+38810.3867;Experiment;0;Started;
+38810.3877;Trial;0;WaitingToStart;
+38810.3884;Trial;0;Running;
+38814.4327;Trial;0;Finished;
+38814.4329;Trial;0;Closed;
+38814.4331;Trial;1;WaitingToStart;
+38814.4332;Trial;1;Running;
+38824.7579;Trial;1;Finished;
+38824.7580;Trial;1;Closed;
+38824.7580;Trial;2;WaitingToStart;
+38824.7581;Trial;2;Running;
+38839.9176;Trial;2;Finished;
+38839.9177;Trial;2;Closed;
+38839.9178;Trial;3;WaitingToStart;
+38839.9178;Trial;3;Running;
+38853.1512;Trial;3;Finished;
+38853.1512;Trial;3;Closed;
+38853.1513;Trial;4;WaitingToStart;
+38853.1514;Trial;4;Running;
+38862.7782;Trial;4;Finished;
+38862.7783;Trial;4;Closed;
+38862.7783;Trial;5;WaitingToStart;
+38862.7784;Trial;5;Running;
+38868.3537;Trial;5;Finished;
+38868.3538;Trial;5;Closed;
+38868.3545;Trial;6;WaitingToStart;
+38868.3546;Trial;6;Running;
+38869.8866;Trial;6;Finished;
+38869.8867;Trial;6;Closed;
+38869.8868;Trial;7;WaitingToStart;
+38869.8868;Trial;7;Running;
+38871.3860;Trial;7;Finished;
+38871.3861;Trial;7;Closed;
+38871.3862;Trial;8;WaitingToStart;
+38871.3863;Trial;8;Running;
+38871.9373;Trial;8;Finished;
+38871.9374;Trial;8;Closed;
+38871.9375;Trial;9;WaitingToStart;
+38871.9375;Trial;9;Running;
+38872.4368;Trial;9;Finished;
+38872.4369;Trial;9;Closed;
+38872.4370;Trial;10;WaitingToStart;
+38872.4371;Trial;10;Running;
+38875.0047;Trial;10;Finished;
+38875.0047;Trial;10;Closed;
+38875.0048;Trial;11;WaitingToStart;
+38875.0049;Trial;11;Running;
+38875.7210;Trial;11;Finished;
+38875.7211;Trial;11;Closed;
+38875.7213;Trial;12;WaitingToStart;
+38875.7214;Trial;12;Running;
+38878.8378;Experiment;0;ForceFinished;
+38878.8390;Trial;12;ForceFinished;
+38878.8391;Trial;12;Finished;
+38878.8392;Trial;12;Closed;
+38878.8392;Trial;13;WaitingToStart;
+38878.8393;Trial;13;Running;
+38878.8393;Trial;13;Closed;
+38878.8395;Experiment;0;Finished;
+38878.8400;Experiment;0;Closed;

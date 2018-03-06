@@ -1,0 +1,75 @@
+***SESSION HEADER***
+{
+  "Participant": "NEO",
+  "Timestamp": "10-42-43-06-03-2018"
+}
+---SESSION HEADER---
+***TEST HEADER***
+
+---TEST HEADER---
+Time;Sender;Index;Event;
+38563.9397;Experiment;0;WaitingToStart;
+38563.9397;Experiment;0;Started;
+38563.9398;Trial;0;WaitingToStart;
+38563.9399;Trial;0;Running;
+38570.3552;Trial;0;Finished;
+38570.3553;Trial;0;Closed;
+38570.3553;Trial;1;WaitingToStart;
+38570.3554;Trial;1;Running;
+38581.6585;Trial;1;Finished;
+38581.6585;Trial;1;Closed;
+38581.6586;Trial;2;WaitingToStart;
+38581.6586;Trial;2;Running;
+38594.9565;Trial;2;Finished;
+38594.9565;Trial;2;Closed;
+38594.9566;Trial;3;WaitingToStart;
+38594.9566;Trial;3;Running;
+38609.1277;Trial;3;Finished;
+38609.1278;Trial;3;Closed;
+38609.1278;Trial;4;WaitingToStart;
+38609.1279;Trial;4;Running;
+38617.4820;Trial;4;Finished;
+38617.4821;Trial;4;Closed;
+38617.4822;Trial;5;WaitingToStart;
+38617.4822;Trial;5;Running;
+38623.5463;Trial;5;Finished;
+38623.5464;Trial;5;Closed;
+38623.5476;Trial;6;WaitingToStart;
+38623.5477;Trial;6;Running;
+38626.2301;Trial;6;Finished;
+38626.2301;Trial;6;Closed;
+38626.2302;Trial;7;WaitingToStart;
+38626.2303;Trial;7;Running;
+38627.3793;Trial;7;Finished;
+38627.3794;Trial;7;Closed;
+38627.3795;Trial;8;WaitingToStart;
+38627.3795;Trial;8;Running;
+38627.9009;Trial;8;Finished;
+38627.9010;Trial;8;Closed;
+38627.9011;Trial;9;WaitingToStart;
+38627.9011;Trial;9;Running;
+38628.9636;Trial;9;Finished;
+38628.9637;Trial;9;Closed;
+38628.9637;Trial;10;WaitingToStart;
+38628.9638;Trial;10;Running;
+38630.3788;Trial;10;Finished;
+38630.3789;Trial;10;Closed;
+38630.3789;Trial;11;WaitingToStart;
+38630.3790;Trial;11;Running;
+38630.7971;Trial;11;Finished;
+38630.7972;Trial;11;Closed;
+38630.7973;Trial;12;WaitingToStart;
+38630.7974;Trial;12;Running;
+38633.7478;Trial;12;Finished;
+38633.7478;Trial;12;Closed;
+38633.7479;Trial;13;WaitingToStart;
+38633.7480;Trial;13;Running;
+38650.5151;Experiment;0;ForceFinished;
+38650.5152;Trial;13;ForceFinished;
+38650.5153;Trial;13;Finished;
+38650.5154;Trial;13;Closed;
+38650.5154;Trial;14;WaitingToStart;
+38650.5155;Trial;14;Running;
+38650.5155;Trial;14;Closed;
+38650.5156;Experiment;0;Finished;
+38650.5157;Experiment;0;Closed;

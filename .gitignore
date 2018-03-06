@@ -32,3 +32,9 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+
+# Assets
+/Assets/Assets/
+/Assets/Area730/
+/Assets/Landmarksgit/
