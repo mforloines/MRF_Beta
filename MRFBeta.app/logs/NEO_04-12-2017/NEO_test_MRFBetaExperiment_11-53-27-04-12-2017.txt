@@ -1,0 +1,71 @@
+***SESSION HEADER***
+{
+  "Participant": "NEO",
+  "Timestamp": "11-53-27-04-12-2017"
+}
+---SESSION HEADER---
+***TEST HEADER***
+
+---TEST HEADER---
+Time;Sender;Index;Event;
+42807.2104;Experiment;0;WaitingToStart;
+42807.2104;Experiment;0;Started;
+42807.2105;Trial;0;WaitingToStart;
+42807.2105;Trial;0;Running;
+42821.8058;Trial;0;Finished;
+42821.8059;Trial;0;Closed;
+42821.8059;Trial;1;WaitingToStart;
+42821.8059;Trial;1;Running;
+42837.1054;Trial;1;Finished;
+42837.1055;Trial;1;Closed;
+42837.1055;Trial;2;WaitingToStart;
+42837.1055;Trial;2;Running;
+42844.5882;Trial;2;Finished;
+42844.5882;Trial;2;Closed;
+42844.5883;Trial;3;WaitingToStart;
+42844.5883;Trial;3;Running;
+42859.3880;Trial;3;Finished;
+42859.3881;Trial;3;Closed;
+42859.3881;Trial;4;WaitingToStart;
+42859.3881;Trial;4;Running;
+42868.5376;Trial;4;Finished;
+42868.5376;Trial;4;Closed;
+42868.5376;Trial;5;WaitingToStart;
+42868.5376;Trial;5;Running;
+42875.5050;Trial;5;Finished;
+42875.5050;Trial;5;Closed;
+42875.5058;Trial;6;WaitingToStart;
+42875.5059;Trial;6;Running;
+42878.8222;Trial;6;Finished;
+42878.8223;Trial;6;Closed;
+42878.8223;Trial;7;WaitingToStart;
+42878.8223;Trial;7;Running;
+42881.3872;Trial;7;Finished;
+42881.3872;Trial;7;Closed;
+42881.3873;Trial;8;WaitingToStart;
+42881.3873;Trial;8;Running;
+42883.1871;Trial;8;Finished;
+42883.1872;Trial;8;Closed;
+42883.1872;Trial;9;WaitingToStart;
+42883.1872;Trial;9;Running;
+42884.8871;Trial;9;Finished;
+42884.8871;Trial;9;Closed;
+42884.8872;Trial;10;WaitingToStart;
+42884.8872;Trial;10;Running;
+42889.8533;Trial;10;Finished;
+42889.8533;Trial;10;Closed;
+42889.8534;Trial;11;WaitingToStart;
+42889.8535;Trial;11;Running;
+42892.6872;Trial;11;Finished;
+42892.6873;Trial;11;Closed;
+42892.6873;Trial;12;WaitingToStart;
+42892.6873;Trial;12;Running;
+42898.4043;Experiment;0;ForceFinished;
+42898.4044;Trial;12;ForceFinished;
+42898.4044;Trial;12;Finished;
+42898.4044;Trial;12;Closed;
+42898.4045;Trial;13;WaitingToStart;
+42898.4045;Trial;13;Running;
+42898.4045;Trial;13;Closed;
+42898.4045;Experiment;0;Finished;
+42898.4046;Experiment;0;Closed;

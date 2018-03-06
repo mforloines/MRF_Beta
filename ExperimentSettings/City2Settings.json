@@ -1,0 +1,34 @@
+{
+"ExperimentName": "MRFBetaExperiment",
+	"LevelName": "MRF_Test",
+	"Settings": [{
+		"GoalOrder": [
+			5,
+			2,
+			3,
+			0,
+			4,
+			1,
+			5,
+			2,
+			3,
+			0,
+			4,
+			1
+		],
+	"NumberOfTrainingGoals":6,
+	"NumberOfTrainingBLocks":4,
+		"StoreTypes": [
+			"Cell Phones",
+			"Gym",
+			"Florist",
+			"Pizzeria",
+			"Ice Cream",
+			"Dentist"
+		],
+		"Messages": {
+			"goto": "Walk towards ",
+			"point": "Point towards "
+		}
+	}]
+}

@@ -1,0 +1,22 @@
+***SESSION HEADER***
+{
+  "Participant": "NEO",
+  "Timestamp": "11-53-27-04-12-2017"
+}
+---SESSION HEADER---
+***EXPERIMENT INFO***
+{
+  "Participant": {
+    "Id": "NEO"
+  },
+  "CameraInfo": {
+    "FieldOfView": 60.0,
+    "FacClipPlane": 1000.0
+  },
+  "ScreenInfo": {
+    "Height": 1280.0,
+    "Width": 2048.0
+  },
+  "LevelName": "BVA"
+}
+---EXPERIMENT INFO---

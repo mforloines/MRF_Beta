@@ -1,0 +1,71 @@
+***SESSION HEADER***
+{
+  "Participant": "NEO",
+  "Timestamp": "13-42-50-10-01-2018"
+}
+---SESSION HEADER---
+***TEST HEADER***
+
+---TEST HEADER---
+Time;Sender;Index;Event;
+49370.9906;Experiment;0;WaitingToStart;
+49370.9912;Experiment;0;Started;
+49370.9920;Trial;0;WaitingToStart;
+49370.9926;Trial;0;Running;
+49375.5817;Trial;0;Finished;
+49375.5819;Trial;0;Closed;
+49375.5821;Trial;1;WaitingToStart;
+49375.5821;Trial;1;Running;
+49383.3150;Trial;1;Finished;
+49383.3150;Trial;1;Closed;
+49383.3150;Trial;2;WaitingToStart;
+49383.3151;Trial;2;Running;
+49398.2830;Trial;2;Finished;
+49398.2830;Trial;2;Closed;
+49398.2830;Trial;3;WaitingToStart;
+49398.2831;Trial;3;Running;
+49426.7348;Trial;3;Finished;
+49426.7348;Trial;3;Closed;
+49426.7349;Trial;4;WaitingToStart;
+49426.7349;Trial;4;Running;
+49442.4675;Trial;4;Finished;
+49442.4675;Trial;4;Closed;
+49442.4675;Trial;5;WaitingToStart;
+49442.4676;Trial;5;Running;
+49449.6884;Trial;5;Finished;
+49449.6884;Trial;5;Closed;
+49449.6891;Trial;6;WaitingToStart;
+49449.6892;Trial;6;Running;
+49452.5375;Trial;6;Finished;
+49452.5375;Trial;6;Closed;
+49452.5376;Trial;7;WaitingToStart;
+49452.5376;Trial;7;Running;
+49454.6061;Trial;7;Finished;
+49454.6061;Trial;7;Closed;
+49454.6062;Trial;8;WaitingToStart;
+49454.6063;Trial;8;Running;
+49456.4552;Trial;8;Finished;
+49456.4553;Trial;8;Closed;
+49456.4553;Trial;9;WaitingToStart;
+49456.4554;Trial;9;Running;
+49458.7895;Trial;9;Finished;
+49458.7895;Trial;9;Closed;
+49458.7896;Trial;10;WaitingToStart;
+49458.7896;Trial;10;Running;
+49460.2878;Trial;10;Finished;
+49460.2878;Trial;10;Closed;
+49460.2879;Trial;11;WaitingToStart;
+49460.2879;Trial;11;Running;
+49462.8405;Trial;11;Finished;
+49462.8406;Trial;11;Closed;
+49462.8407;Trial;12;WaitingToStart;
+49462.8408;Trial;12;Running;
+49470.8571;Experiment;0;ForceFinished;
+49470.8574;Trial;12;ForceFinished;
+49470.8575;Trial;12;Finished;
+49470.8575;Trial;12;Closed;
+49470.8576;Trial;13;WaitingToStart;
+49470.8576;Trial;13;Running;
+49470.8576;Trial;13;Closed;
+49470.8577;Experiment;0;Finished;
+49470.8580;Experiment;0;Closed;

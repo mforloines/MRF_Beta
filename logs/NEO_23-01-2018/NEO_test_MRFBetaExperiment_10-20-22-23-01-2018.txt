@@ -1,0 +1,23 @@
+***SESSION HEADER***
+{
+  "Participant": "NEO",
+  "Timestamp": "10-20-22-23-01-2018"
+}
+---SESSION HEADER---
+***TEST HEADER***
+
+---TEST HEADER---
+Time;Sender;Index;Event;
+37222.5165;Experiment;0;WaitingToStart;
+37222.5165;Experiment;0;Started;
+37222.5166;Trial;0;WaitingToStart;
+37222.5166;Trial;0;Running;
+37284.5201;Experiment;0;ForceFinished;
+37284.5201;Trial;0;ForceFinished;
+37284.5202;Trial;0;Finished;
+37284.5203;Trial;0;Closed;
+37284.5203;Trial;1;WaitingToStart;
+37284.5204;Trial;1;Running;
+37284.5204;Trial;1;Closed;
+37284.5204;Experiment;0;Finished;
+37284.5206;Experiment;0;Closed;

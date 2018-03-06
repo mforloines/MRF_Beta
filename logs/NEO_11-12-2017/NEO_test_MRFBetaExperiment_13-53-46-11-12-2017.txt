@@ -1,0 +1,71 @@
+***SESSION HEADER***
+{
+  "Participant": "NEO",
+  "Timestamp": "13-53-46-11-12-2017"
+}
+---SESSION HEADER---
+***TEST HEADER***
+
+---TEST HEADER---
+Time;Sender;Index;Event;
+50026.6776;Experiment;0;WaitingToStart;
+50026.6784;Experiment;0;Started;
+50026.6794;Trial;0;WaitingToStart;
+50026.6800;Trial;0;Running;
+50041.8938;Trial;0;Finished;
+50041.8939;Trial;0;Closed;
+50041.8941;Trial;1;WaitingToStart;
+50041.8941;Trial;1;Running;
+50068.1108;Trial;1;Finished;
+50068.1108;Trial;1;Closed;
+50068.1109;Trial;2;WaitingToStart;
+50068.1109;Trial;2;Running;
+50086.0121;Trial;2;Finished;
+50086.0121;Trial;2;Closed;
+50086.0121;Trial;3;WaitingToStart;
+50086.0121;Trial;3;Running;
+50099.1797;Trial;3;Finished;
+50099.1797;Trial;3;Closed;
+50099.1798;Trial;4;WaitingToStart;
+50099.1798;Trial;4;Running;
+50106.3615;Trial;4;Finished;
+50106.3616;Trial;4;Closed;
+50106.3616;Trial;5;WaitingToStart;
+50106.3616;Trial;5;Running;
+50120.0647;Trial;5;Finished;
+50120.0647;Trial;5;Closed;
+50120.0654;Trial;6;WaitingToStart;
+50120.0654;Trial;6;Running;
+50127.9501;Trial;6;Finished;
+50127.9501;Trial;6;Closed;
+50127.9502;Trial;7;WaitingToStart;
+50127.9502;Trial;7;Running;
+50130.2171;Trial;7;Finished;
+50130.2172;Trial;7;Closed;
+50130.2173;Trial;8;WaitingToStart;
+50130.2173;Trial;8;Running;
+50132.3334;Trial;8;Finished;
+50132.3334;Trial;8;Closed;
+50132.3336;Trial;9;WaitingToStart;
+50132.3337;Trial;9;Running;
+50133.4662;Trial;9;Finished;
+50133.4662;Trial;9;Closed;
+50133.4663;Trial;10;WaitingToStart;
+50133.4663;Trial;10;Running;
+50134.7320;Trial;10;Finished;
+50134.7320;Trial;10;Closed;
+50134.7321;Trial;11;WaitingToStart;
+50134.7321;Trial;11;Running;
+50135.8334;Trial;11;Finished;
+50135.8335;Trial;11;Closed;
+50135.8336;Trial;12;WaitingToStart;
+50135.8337;Trial;12;Running;
+50143.5497;Experiment;0;ForceFinished;
+50143.5501;Trial;12;ForceFinished;
+50143.5501;Trial;12;Finished;
+50143.5501;Trial;12;Closed;
+50143.5502;Trial;13;WaitingToStart;
+50143.5502;Trial;13;Running;
+50143.5502;Trial;13;Closed;
+50143.5504;Experiment;0;Finished;
+50143.5507;Experiment;0;Closed;

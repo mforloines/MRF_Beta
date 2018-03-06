@@ -1,0 +1,71 @@
+***SESSION HEADER***
+{
+  "Participant": "NEO",
+  "Timestamp": "11-55-08-04-12-2017"
+}
+---SESSION HEADER---
+***TEST HEADER***
+
+---TEST HEADER---
+Time;Sender;Index;Event;
+42908.6228;Experiment;0;WaitingToStart;
+42908.6229;Experiment;0;Started;
+42908.6229;Trial;0;WaitingToStart;
+42908.6229;Trial;0;Running;
+42918.5696;Trial;0;Finished;
+42918.5696;Trial;0;Closed;
+42918.5697;Trial;1;WaitingToStart;
+42918.5697;Trial;1;Running;
+42925.9200;Trial;1;Finished;
+42925.9200;Trial;1;Closed;
+42925.9201;Trial;2;WaitingToStart;
+42925.9201;Trial;2;Running;
+42939.5190;Trial;2;Finished;
+42939.5190;Trial;2;Closed;
+42939.5190;Trial;3;WaitingToStart;
+42939.5191;Trial;3;Running;
+42953.2518;Trial;3;Finished;
+42953.2518;Trial;3;Closed;
+42953.2518;Trial;4;WaitingToStart;
+42953.2519;Trial;4;Running;
+42961.4688;Trial;4;Finished;
+42961.4688;Trial;4;Closed;
+42961.4688;Trial;5;WaitingToStart;
+42961.4689;Trial;5;Running;
+42967.9515;Trial;5;Finished;
+42967.9515;Trial;5;Closed;
+42967.9516;Trial;6;WaitingToStart;
+42967.9516;Trial;6;Running;
+42970.0509;Trial;6;Finished;
+42970.0509;Trial;6;Closed;
+42970.0510;Trial;7;WaitingToStart;
+42970.0510;Trial;7;Running;
+42970.3011;Trial;7;Finished;
+42970.3012;Trial;7;Closed;
+42970.3012;Trial;8;WaitingToStart;
+42970.3012;Trial;8;Running;
+42970.5511;Trial;8;Finished;
+42970.5512;Trial;8;Closed;
+42970.5512;Trial;9;WaitingToStart;
+42970.5512;Trial;9;Running;
+42970.8009;Trial;9;Finished;
+42970.8009;Trial;9;Closed;
+42970.8010;Trial;10;WaitingToStart;
+42970.8010;Trial;10;Running;
+42971.0511;Trial;10;Finished;
+42971.0512;Trial;10;Closed;
+42971.0512;Trial;11;WaitingToStart;
+42971.0513;Trial;11;Running;
+42971.3676;Trial;11;Finished;
+42971.3676;Trial;11;Closed;
+42971.3677;Trial;12;WaitingToStart;
+42971.3677;Trial;12;Running;
+42974.3174;Experiment;0;ForceFinished;
+42974.3175;Trial;12;ForceFinished;
+42974.3175;Trial;12;Finished;
+42974.3175;Trial;12;Closed;
+42974.3176;Trial;13;WaitingToStart;
+42974.3176;Trial;13;Running;
+42974.3176;Trial;13;Closed;
+42974.3176;Experiment;0;Finished;
+42974.3177;Experiment;0;Closed;

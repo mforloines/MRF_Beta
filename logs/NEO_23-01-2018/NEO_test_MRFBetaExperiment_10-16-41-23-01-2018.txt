@@ -1,0 +1,71 @@
+***SESSION HEADER***
+{
+  "Participant": "NEO",
+  "Timestamp": "10-16-41-23-01-2018"
+}
+---SESSION HEADER---
+***TEST HEADER***
+
+---TEST HEADER---
+Time;Sender;Index;Event;
+37001.8777;Experiment;0;WaitingToStart;
+37001.8784;Experiment;0;Started;
+37001.8795;Trial;0;WaitingToStart;
+37001.8824;Trial;0;Running;
+37013.4259;Trial;0;Finished;
+37013.4260;Trial;0;Closed;
+37013.4263;Trial;1;WaitingToStart;
+37013.4263;Trial;1;Running;
+37025.6599;Trial;1;Finished;
+37025.6600;Trial;1;Closed;
+37025.6601;Trial;2;WaitingToStart;
+37025.6601;Trial;2;Running;
+37043.3438;Trial;2;Finished;
+37043.3439;Trial;2;Closed;
+37043.3439;Trial;3;WaitingToStart;
+37043.3440;Trial;3;Running;
+37062.9463;Trial;3;Finished;
+37062.9464;Trial;3;Closed;
+37062.9465;Trial;4;WaitingToStart;
+37062.9465;Trial;4;Running;
+37072.7150;Trial;4;Finished;
+37072.7151;Trial;4;Closed;
+37072.7152;Trial;5;WaitingToStart;
+37072.7153;Trial;5;Running;
+37079.1982;Trial;5;Finished;
+37079.1983;Trial;5;Closed;
+37079.1994;Trial;6;WaitingToStart;
+37079.1995;Trial;6;Running;
+37093.5669;Trial;6;Finished;
+37093.5670;Trial;6;Closed;
+37093.5672;Trial;7;WaitingToStart;
+37093.5672;Trial;7;Running;
+37100.5343;Trial;7;Finished;
+37100.5344;Trial;7;Closed;
+37100.5346;Trial;8;WaitingToStart;
+37100.5346;Trial;8;Running;
+37107.5343;Trial;8;Finished;
+37107.5344;Trial;8;Closed;
+37107.5346;Trial;9;WaitingToStart;
+37107.5346;Trial;9;Running;
+37114.5173;Trial;9;Finished;
+37114.5174;Trial;9;Closed;
+37114.5175;Trial;10;WaitingToStart;
+37114.5176;Trial;10;Running;
+37117.7481;Trial;10;Finished;
+37117.7482;Trial;10;Closed;
+37117.7483;Trial;11;WaitingToStart;
+37117.7483;Trial;11;Running;
+37122.1014;Trial;11;Finished;
+37122.1015;Trial;11;Closed;
+37122.1016;Trial;12;WaitingToStart;
+37122.1017;Trial;12;Running;
+37162.0942;Experiment;0;ForceFinished;
+37162.0948;Trial;12;ForceFinished;
+37162.0949;Trial;12;Finished;
+37162.0950;Trial;12;Closed;
+37162.0951;Trial;13;WaitingToStart;
+37162.0952;Trial;13;Running;
+37162.0953;Trial;13;Closed;
+37162.0955;Experiment;0;Finished;
+37162.0960;Experiment;0;Closed;

@@ -1,0 +1,7 @@
+***SESSION HEADER***
+{
+  "Participant": "NEO",
+  "Timestamp": "10-18-07-06-03-2018"
+}
+---SESSION HEADER---
+Time;Position; Rotation.X; Rotation.Y;FPS; Input;

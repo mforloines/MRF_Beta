@@ -1,0 +1,34 @@
+{
+  "ExperimentName": "MRFBetaExperiment",
+  "LevelName": "MRF_Test",
+  "Settings": [{
+    "GoalOrder": [
+      1,
+      2,
+      0,
+      3,
+      4,
+      5,
+	1,
+	2,
+	0,
+	3,
+	4,
+	5
+    ],
+	"NumberOfTrainingGoals":6,
+	"NumberOfBlocks":4,
+    "StoreTypes": [
+      "Bakery",
+      "Chinese Food",
+      "Pet Store",
+      "Grocery Store",
+      "Music Store",
+      "Pharmacy"
+    ],
+    "Messages": {
+      "goto": "Walk towards ",
+      "point": "Point towards "
+    }
+  }]
+}

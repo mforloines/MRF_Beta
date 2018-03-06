@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c36a4a0a8e66445169426bb01033a6f4, type: 3}
+  m_Name: New BrainVR.UnityFramework.Scripts.Experiments.MRFBetaExperiment.MRFBetaExperimentSettings
+  m_EditorClassIdentifier: 
+  ShouldLog: 1
+  ExperimentName: MRF_Beta
+  LevelName: 
+  GoalOrder: 0000000001000000020000000300000000000000010000000200000003000000
+  NumberOfTrainingGoals: 6
+  NumberOfBlocks: 4
+  StoreTypes:
+  - Dentist
+  - Gym
+  - Pizzeria
+  - Florist
+  - Ice Cream
+  - Cell Phones

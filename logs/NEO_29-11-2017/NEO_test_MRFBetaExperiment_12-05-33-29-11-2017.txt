@@ -1,0 +1,38 @@
+***SESSION HEADER***
+{
+  "Participant": "NEO",
+  "Timestamp": "12-05-33-29-11-2017"
+}
+---SESSION HEADER---
+***TEST HEADER***
+
+---TEST HEADER---
+Time;Sender;Index;Event;
+43533.2067;Experiment;0;WaitingToStart;
+43533.2083;Experiment;0;Started;
+43533.2093;Trial;0;WaitingToStart;
+43533.2099;Trial;0;Running;
+43542.8139;Trial;0;Finished;
+43542.8140;Trial;0;Closed;
+43542.8142;Trial;1;WaitingToStart;
+43542.8143;Trial;1;Running;
+43607.1697;Trial;1;Finished;
+43607.1698;Trial;1;Closed;
+43607.1698;Trial;2;WaitingToStart;
+43607.1698;Trial;2;Running;
+43622.2304;Trial;2;Finished;
+43622.2304;Trial;2;Closed;
+43622.2305;Trial;3;WaitingToStart;
+43622.2305;Trial;3;Running;
+43639.2716;Trial;3;Finished;
+43639.2717;Trial;3;Closed;
+43639.2717;Trial;4;WaitingToStart;
+43639.2717;Trial;4;Running;
+43650.7896;Trial;4;Finished;
+43650.7897;Trial;4;Closed;
+43650.7897;Trial;5;WaitingToStart;
+43650.7897;Trial;5;Running;
+43659.7412;Trial;5;Finished;
+43659.7412;Trial;5;Closed;
+43659.7415;Experiment;0;Finished;
+43659.7418;Experiment;0;Closed;
