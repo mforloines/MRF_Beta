@@ -7834,11 +7834,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4142928019991592, guid: f08a6ebf02a32c44faae9163d8389691, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4142928019991592, guid: f08a6ebf02a32c44faae9163d8389691, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 4142928019991592, guid: f08a6ebf02a32c44faae9163d8389691, type: 2}
       propertyPath: m_LocalPosition.z
@@ -7890,6 +7890,11 @@ Prefab:
         type: 2}
       propertyPath: m_Text
       value: Return to menu
+      objectReference: {fileID: 0}
+    - target: {fileID: 114185109934339552, guid: f08a6ebf02a32c44faae9163d8389691,
+        type: 2}
+      propertyPath: m_SubmitButton
+      value: Submit2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f08a6ebf02a32c44faae9163d8389691, type: 2}
